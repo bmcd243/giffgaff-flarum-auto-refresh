@@ -16,7 +16,7 @@ const refreshInterval = 20;
 // list of enabled paths
 // !! don't include any query parameters (e.g. ?sort=xxxx) !!
 const enabledPaths = [
-    "/t/help-and-support"
+    "/all"
 ];
 
 setInterval(() => {
